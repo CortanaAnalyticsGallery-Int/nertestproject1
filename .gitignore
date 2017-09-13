@@ -1,0 +1,12 @@
+.azuremlhistory_git
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+*.Rproj
+.vs/slnx.sqlite
+
+
+.azuremlhistory_git
+.ipynb_checkpoints
+azureml-logs
